@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.back {
+    margin-left: 150px;
+    margin-right: 150px;
+    background-size: cover;
+    height: 100vh;
+}
+
+.imagr {
+    height: 50px;
+    margin-bottom: 20px;
+}
+
+.all {
+    margin: 30px;
+    padding: 20px;
+    border-radius: 21px;
+    border: 1px solid #6393EB;
+    background: radial-gradient(111.98% 114.96% at 19.94% 19.52%, rgba(255, 255, 255, 0.32) 0%, rgba(255, 255, 255, 0.19) 95.65%, rgba(218, 214, 214, 0.30) 100%);
+    box-shadow: 10px 10px 20px 0px rgba(104, 101, 101, 0.20), -10px -10px 20px 0px rgba(150, 150, 150, 0.25);
+}
+
+.login-link {
+    margin-top: 10px;
+}
